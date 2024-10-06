@@ -1,11 +1,23 @@
-👋 Hi there! 
-
-I'm Ahmed Hassan
-I'm a Computer Science student at the University of Illinois Chicago. I have a passion for coding and love building projects that solve real-world problems. I am always eager to learn new technologies and improve my skills in software development.
+👋 Hi there! I'm Ahmed Hassan
+🎓 Education
+Bachelor of Science in Computer Science
+University of Chicago, IL
+Expected Graduation: May 2026
 
 🚀 Skills
 Languages: C, C++,
 Web Development: HTML, CSS
+
+🌟 Projects
+Project 01 - Totalistic Cellular Automaton.
+In this project, I implemented a simple one-dimensional totalistic cellular automaton, which simulates the evolution of cells on a grid. Each cell can take on one of three statuses (0, 1, or 2), representing states such as inactive, at-risk, or thriving. The evolution of each cell depends on the sum of its status and the statuses of its neighboring cells. By applying a user-defined rulenumber, the automaton evolves over multiple generations, visualizing the world as it changes. This project provides insight into how simple rules can lead to complex behaviors.
+One key technical skill applied in this project is dynamic memory management. I used an array of structs to represent the grid, where each cell is a struct containing its status, local sum, and an accumulated count of active statuses. The struct-based approach allows for efficient updates and storage of cell statuses as the world evolves. Additionally, understanding binary-to-ternary conversions was crucial for mapping the rule number to the possible cell status changes.
+
+Project 02 - Ciphers.
+This project, part of CS 251, introduces key C++ concepts through the implementation of encryption algorithms like the Caesar and substitution ciphers. As a solo project, students must decide on the program structure while adhering to restrictions like avoiding global variables and limiting the use of certain libraries.
+Key skills applied in this project include working with C++ standard libraries, specifically utilizing strings, vectors, and file streams. One of the main tasks involves implementing Caesar cipher encryption and decryption, requiring a deep understanding of algorithm design and function overloading in C++. The project also involves writing utility functions, reading from files, and running tests using a provided Makefile.
+
+
 
 🌱 I'm currently learning
 data structur C++
