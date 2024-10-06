@@ -5,6 +5,7 @@ Languages: C, C++,
 Web Development: HTML, CSS
 
 🌟 Projects
+
 Project 01 - Totalistic Cellular Automaton.
 
 In this project, I implemented a simple one-dimensional totalistic cellular automaton, which simulates the evolution of cells on a grid. Each cell can take on one of three statuses (0, 1, or 2), representing states such as inactive, at-risk, or thriving. The evolution of each cell depends on the sum of its status and the statuses of its neighboring cells. By applying a user-defined rulenumber, the automaton evolves over multiple generations, visualizing the world as it changes. This project provides insight into how simple rules can lead to complex behaviors.
