@@ -1,4 +1,4 @@
-Ever since I was a kid, I’ve been fascinated by technology and problem-solving. My journey began with tinkering with computers and coding simple programs, leading me to pursue a Bachelor of Science in Computer Science at the  University of Illinois Chicago. As I explore this field, I’m continually amazed by technology's ability to transform lives and create innovative solutions. I'm excited to learn, grow, and collaborate with fellow enthusiasts in the coding and development community.
+Ever since I was a child, I’ve been fascinated by technology and problem-solving. My journey began with tinkering with computers and coding simple programs, leading me to pursue a Bachelor of Science in Computer Science at the  University of Illinois Chicago. As I explore this field, I’m continually amazed by technology's ability to transform lives and create innovative solutions. I'm excited to learn, grow, and collaborate with fellow enthusiasts in the coding and development community.
 
 🚀 Skills
 Languages: C, C++,
