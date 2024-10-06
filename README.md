@@ -1,5 +1,5 @@
 👋 Hi there! I'm Ahmed Hassan
-I'm a Computer Science student at the University of Chicago. I have a passion for coding and love building projects that solve real-world problems. I am always eager to learn new technologies and improve my skills in software development.
+I'm a Computer Science student at the University of Illinois Chicago. I have a passion for coding and love building projects that solve real-world problems. I am always eager to learn new technologies and improve my skills in software development.
 
 🚀 Skills
 Languages: C, C++,
