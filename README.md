@@ -22,10 +22,7 @@ University of Illinois Chicago | B.S. in Computer Science (Expected May 2026)
 City Colleges of Chicago - Harry S Truman College | Associate in Engineering Science (Graduated 2023)
 ASPIRA Antonia Pantoja High School | High School Diploma (Graduated 2021)
 
-💼 Experience
-Applied for Software Engineering Internship | CME Group (Summer 2025)
-Passionate about contributing to impactful financial technology solutions.
-Prepared for responsibilities in system design, algorithm optimization, and collaborative problem-solving.
+
 
 ⚽ Fun Fact
 In my free time, you’ll find me playing soccer or brainstorming new project ideas. I love connecting with peers in the tech community and exploring innovative ways to use technology for good.
